@@ -1,0 +1,24 @@
+{
+  "animals": [
+    {"id":1,"name":"Savannah deer (unidentified)","category":"Blue"},
+    {"id":2,"name":"Scaly-breasted lorikeet","category":"Yellow"},
+    {"id":3,"name":"Little grebe","category":"Maroon"},
+    {"id":4,"name":"Caracal","category":"Yellow"},
+    {"id":5,"name":"Western spotted skunk","category":"Mauv"},
+    {"id":6,"name":"Little blue penguin","category":"Aquamarine"},
+    {"id":7,"name":"Capybara","category":"Crimson"},
+    {"id":8,"name":"Bat, madagascar fruit","category":"Pink"},
+    {"id":9,"name":"Eurasian beaver","category":"Green"},
+    {"id":10,"name":"Sloth, pale-throated three-toed","category":"Blue"},
+    {"id":11,"name":"Pelican, australian","category":"Purple"},
+    {"id":12,"name":"Yellow-brown sungazer","category":"Orange"},
+    {"id":13,"name":"Red phalarope","category":"Goldenrod"},
+    {"id":14,"name":"Blackbuck","category":"Purple"},
+    {"id":15,"name":"Waxbill, black-cheeked","category":"Green"},
+    {"id":16,"name":"Cormorant, pied","category":"Goldenrod"},
+    {"id":17,"name":"Uinta ground squirrel","category":"Pink"},
+    {"id":18,"name":"Sheep, stone","category":"Green"},
+    {"id":19,"name":"Squirrel, red","category":"Fuscia"},
+    {"id":20,"name":"Long-necked turtle","category":"Yellow"}
+  ]
+}
